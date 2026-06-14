@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CH4SP1PROJECT.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CH4SP1PROJECT.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CH4SP1PROJECTEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CH4SP1PROJECT">
+      <UniqueIdentifier>{1E4A22B5-03EC-3C18-9A66-A1D78B410C42}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CH4SP1PROJECT\CH4SP1PROJECT.Build.cs">
+      <Filter>Source\CH4SP1PROJECT</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CH4SP1PROJECT\CH4SP1PROJECT.cpp">
+      <Filter>Source\CH4SP1PROJECT</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CH4SP1PROJECT\CH4SP1PROJECT.h">
+      <Filter>Source\CH4SP1PROJECT</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CH4SP1PROJECT\SP1GameModeBase.cpp">
+      <Filter>Source\CH4SP1PROJECT</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CH4SP1PROJECT\SP1GameModeBase.h">
+      <Filter>Source\CH4SP1PROJECT</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CH4SP1PROJECT\SP1HUD.cpp">
+      <Filter>Source\CH4SP1PROJECT</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CH4SP1PROJECT\SP1HUD.h">
+      <Filter>Source\CH4SP1PROJECT</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CH4SP1PROJECT\SP1PlayerController.cpp">
+      <Filter>Source\CH4SP1PROJECT</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CH4SP1PROJECT\SP1PlayerController.h">
+      <Filter>Source\CH4SP1PROJECT</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CH4SP1PROJECT\SP1PlayerState.cpp">
+      <Filter>Source\CH4SP1PROJECT</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CH4SP1PROJECT\SP1PlayerState.h">
+      <Filter>Source\CH4SP1PROJECT</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
